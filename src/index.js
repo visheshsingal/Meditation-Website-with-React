@@ -9,7 +9,7 @@ import { BrowserRouter } from "react-router-dom";
 
 const container =  document.getElementById('root');
 const root = createRoot(container);
-const appName = "chakra-app"
+const appName = "Meditation-Website-with-React"
 
 root.render(
   <React.StrictMode>

@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 2. **Navigate to the Project Directory:**
 
    ```bash
-cd Meditation-Website-with-React
+   cd Meditation-Website-with-React
 
 3. **Install Dependencies:**
 

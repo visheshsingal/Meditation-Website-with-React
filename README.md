@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/meditation-website.git
+   git clone https://github.com/visheshsingal/Meditation-Website-with-React.git
 
 2. **Navigate to the Project Directory:**
 

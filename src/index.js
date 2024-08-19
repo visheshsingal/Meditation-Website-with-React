@@ -9,7 +9,8 @@ import { BrowserRouter } from "react-router-dom";
 
 const container =  document.getElementById('root');
 const root = createRoot(container);
-const appName = "Meditation-Website-with-React"
+const appName = "Calmaura-app"
+
 
 root.render(
   <React.StrictMode>
